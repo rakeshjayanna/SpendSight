@@ -37,7 +37,7 @@ SpendSight is an interactive Power BI dashboard designed to analyze large-scale 
 
 ## 🚀 How to Use
 
-1. Download the PowerBI file    
+1. Download the PowerBI file    OR
 2. Download or copy sql queries into your MySQL database  
 3. Download the csv files  
 4. Use DAX in PowerBI
